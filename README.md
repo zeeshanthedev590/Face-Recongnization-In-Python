@@ -1,5 +1,4 @@
-# Face-Recongnization-In-Python [python] https://forthebadge.com/images/badges/made-with-python.svg
 
-# Made By Python
+# Python Face Recognition [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-Only Images On Vidios
+Only Images No Vidios
